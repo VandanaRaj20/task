@@ -1,3 +1,3 @@
 # task
 
-link to webpage: https://vandanaraj20.github.io/task/task/main.html
+link to the webpage: https://vandanaraj20.github.io/task/task/main.html
